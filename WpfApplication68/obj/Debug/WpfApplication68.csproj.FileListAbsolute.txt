@@ -1,0 +1,13 @@
+E:\workplace\Other\WpfApplication68\WpfApplication68\bin\Debug\WpfApplication68.exe.config
+E:\workplace\Other\WpfApplication68\WpfApplication68\obj\Debug\WpfApplication68.csprojResolveAssemblyReference.cache
+E:\workplace\Other\WpfApplication68\WpfApplication68\obj\Debug\MainWindow.baml
+E:\workplace\Other\WpfApplication68\WpfApplication68\obj\Debug\MainWindow.g.cs
+E:\workplace\Other\WpfApplication68\WpfApplication68\obj\Debug\App.g.cs
+E:\workplace\Other\WpfApplication68\WpfApplication68\obj\Debug\WpfApplication68_MarkupCompile.cache
+E:\workplace\Other\WpfApplication68\WpfApplication68\obj\Debug\WpfApplication68.g.resources
+E:\workplace\Other\WpfApplication68\WpfApplication68\obj\Debug\WpfApplication68.Properties.Resources.resources
+E:\workplace\Other\WpfApplication68\WpfApplication68\obj\Debug\WpfApplication68.csproj.GenerateResource.Cache
+E:\workplace\Other\WpfApplication68\WpfApplication68\bin\Debug\WpfApplication68.exe
+E:\workplace\Other\WpfApplication68\WpfApplication68\bin\Debug\WpfApplication68.pdb
+E:\workplace\Other\WpfApplication68\WpfApplication68\obj\Debug\WpfApplication68.exe
+E:\workplace\Other\WpfApplication68\WpfApplication68\obj\Debug\WpfApplication68.pdb

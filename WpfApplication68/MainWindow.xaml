@@ -1,0 +1,10 @@
+﻿<Window x:Class="WpfApplication68.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <ComboBox HorizontalAlignment="Left" ItemsSource="{Binding LstLot}" SelectedItem="{Binding SelectedLot}" DisplayMemberPath="Num" Margin="29,41,0,0" VerticalAlignment="Top" Width="120"/>
+        <DataGrid HorizontalAlignment="Left" ItemsSource="{Binding LstComponent}" Margin="29,67,0,0" VerticalAlignment="Top" Height="242" Width="466"/>
+
+    </Grid>
+</Window>
